@@ -4,7 +4,7 @@ Date: July 28, 2022
 
 # TwentyFifth challange of [JavaScript30](https://javascript30.com/)
 
-. To experience on your own visit [here](https://rohit-saini7.github.io/24-Sticky-Nav/).
+This is all about capturing an event and its propogation and bubbling. To experience on your own visit [here](https://rohit-saini7.github.io/25-Event-Capture-Propogation-Bubbling-and-Once/).
 
 ## What is JavaScript 30
 

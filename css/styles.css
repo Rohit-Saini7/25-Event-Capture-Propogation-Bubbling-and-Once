@@ -1,0 +1,43 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+  margin: 0;
+  overflow: hidden;
+}
+
+div {
+  width: 100%;
+  max-height: 100vh;
+  padding: 100px;
+}
+
+.one {
+  background: thistle;
+}
+
+.two {
+  background: mistyrose;
+}
+
+.three {
+  background: coral;
+}
+.four {
+  background: chocolate;
+}
+
+.five {
+  background: thistle;
+}
+.six {
+  background: mistyrose;
+}
+
+.seven {
+  background: coral;
+}
